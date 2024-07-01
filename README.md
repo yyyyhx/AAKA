@@ -1,14 +1,13 @@
 # AAKA
 
 
-SIM Type: sysmoISIM-SJA2 
-Please check materials from OSMOCOM of how to read and program SIM profile Java
-Card development toolkits (e.g., SUPI, K).
+# SIM Type: sysmoISIM-SJA2 
+# Please check materials from OSMOCOM of how to read and program SIM profile (e.g., SUPI, K).
 https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2#sysmoISIM-SJA2
 
 
 
-Dependencies: 
+#Dependencies: 
 Petlib,
 pyscard,
 pcsc,
