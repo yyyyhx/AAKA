@@ -9,8 +9,8 @@ https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2#sysmoIS
 
 
 Dependencies: 
-Petlib  https://petlib.readthedocs.io/en/latest/
-pyscard 
-pcsc
-GlobalPlatform Pro
+Petlib,
+pyscard,
+pcsc,
+GlobalPlatform Pro,
 ..
